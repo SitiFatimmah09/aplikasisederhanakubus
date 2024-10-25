@@ -1,0 +1,18 @@
+<resources>
+    <!-- Aplikasi Kubus Sederhana -->
+    <string name="app_name">Aplikasi Kubus</string>
+
+    <!-- Label dan hint untuk input -->
+    <string name="label_input_sisi">Masukkan sisi kubus</string>
+
+    <!-- Teks tombol -->
+    <string name="btn_hitung_volume">Hitung Volume</string>
+    <string name="btn_hitung_luas">Hitung Luas Permukaan</string>
+
+    <!-- Pesan hasil -->
+    <string name="hasil_volume">Volume Kubus: %1$s</string>
+    <string name="hasil_luas">Luas Permukaan Kubus: %1$s</string>
+
+    <!-- Pesan toast untuk validasi input -->
+    <string name="toast_input_empty">Masukkan sisi kubus</string>
+</resources>
